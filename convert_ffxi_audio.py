@@ -86,6 +86,7 @@ def main():
         print("Converts .bgw and .spw files to .ogg format")
         print()
         print(f"Usage: {sys.argv[0]} <sound_folder> [vgmstream_path]")
+        print("Download from: https://github.com/vgmstream/vgmstream/releases")
         print()
         print("Arguments:")
         print("  sound_folder    - Path to FFXI sound folder")
